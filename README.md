@@ -1,0 +1,2 @@
+# wd
+project for learninig
